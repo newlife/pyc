@@ -1,0 +1,6 @@
+main
+<frame at 0x7fc18b010230, file '/Users/newlife/pyc/frame/sample.py', line 11, code <module>>
+None
+function
+<frame at 0x10f29add0, file '/Users/newlife/pyc/frame/sample.py', line 5, code simple_add>
+<frame at 0x7fc18b010230, file '/Users/newlife/pyc/frame/sample.py', line 13, code <module>>

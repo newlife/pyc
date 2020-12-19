@@ -53,7 +53,7 @@ from simple.simple import add
 000000e0: 0000                                     ..
 ```
 
-## Pyc header部分
+## **PyCodeObject**      header部分
 
 ### 610d 0d0a === Magic  Number
 
@@ -97,7 +97,7 @@ Out[13]: 29
 
 对比我们`tree -s`输出的结果，simply.py文件的长度显示29。
 
-## pycodeobject
+## **PyCodeObject**
 
 生成pyc文件的时候，会按照一定的顺序写pycodeobject的各种属性：
 
